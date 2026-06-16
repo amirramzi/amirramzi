@@ -62,6 +62,6 @@ Building a career in Network Security Engineering and continuously improving pra
 
 ## Connect With Me
 
-* LinkedIn: [Your LinkedIn Profile]
-* GitHub: [Your GitHub Profile]
+* LinkedIn: www.linkedin.com/in/amirhosein-ramzi-7553a4416
+* GitHub:   https://github.com/amirramzi
 
